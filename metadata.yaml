@@ -1,0 +1,45 @@
+_repo: All-the-Way-to-Fairyland--Fairy-Stories_30400
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dearmer, Mabel
+    aliases:
+    - Dearmer, Jessie Mabel
+    - Dearmer, Mabel White
+    - Dearmer, Percy, Mrs.
+    birthdate: 1872
+    deathdate: 1915
+    gutenberg_agent_id: '34582'
+    url: http://www.gutenberg.org/2009/agents/34582
+covers:
+- cover_type: archival
+  image_path: 30400-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Sharp, Evelyn
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '34581'
+    url: http://www.gutenberg.org/2009/agents/34581
+description: ''
+gutenberg_issued: '2009-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30400'
+  lccn: '44030631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The country called Nonamia -- Why the Wymps cried -- The story of
+  Honey and Sunny -- The little princess and the poet -- The wonderful toymakers --
+  The professor of practical jokes -- The doll that came straight from Fairyland --
+  Those Wymps again!
+title: 'All the Way to Fairyland: Fairy Stories'
+url: http://www.gutenberg.org/ebooks/30400
